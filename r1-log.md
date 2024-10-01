@@ -1,10 +1,11 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Nathanial Hodgson]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [October 1st, 2024].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Completed the first part of the Foundational C# with Microsoft course from FreeCodeCamp.org
+[Write your first C# Code](https://learn.microsoft.com/api/achievements/share/en-us/NathanialHodgson-0576/J9GP9AMT?sharingId=35A441B0F4F39278)
 
 ### R1D2
